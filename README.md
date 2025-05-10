@@ -1,7 +1,5 @@
 # Taller Notas Estudiantes API
 
-## Enlace: https://laughing-space-doodle-44xg74449qj37g6r-5000.app.github.dev/notas
-
 Obtener todas las notas de los estudiantes:
 https://laughing-space-doodle-44xg74449qj37g6r-5000.app.github.dev/notas
 
