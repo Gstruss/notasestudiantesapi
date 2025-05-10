@@ -1,0 +1,6 @@
+{
+  "name": "Flask API",
+  "dockerFile": "Dockerfile",
+  "appPort": [5000],
+  "runArgs": ["--network=host"]
+}
